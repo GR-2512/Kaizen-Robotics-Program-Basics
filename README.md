@@ -2,7 +2,7 @@
 This repository contains all the code for the robotics projects I underwent during my time at the Training Program.
 
 ## The Program
-Kaizen Robotics Program is a certificate training program aimed at providing students a steep learning curve in the field of Robotics & Embedded Systems. 
+- Kaizen Robotics Program is a certificate training program aimed at providing students a steep learning curve in the field of Robotics & Embedded Systems. 
 - The program comprises of 40 hours of Intensive Training.
 
 ### Kaizen Robotics Program: Level - 1
